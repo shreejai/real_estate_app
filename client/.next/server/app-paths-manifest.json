@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/test/page": "app/test/page.js",
+  "/profilePage/page": "app/profilePage/page.js",
+  "/singlePage/page": "app/singlePage/page.js",
+  "/api/properties/route": "app/api/properties/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
