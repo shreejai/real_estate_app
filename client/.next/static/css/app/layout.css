@@ -688,6 +688,9 @@ video {
 .h-6 {
   height: 1.5rem;
 }
+.h-60 {
+  height: 15rem;
+}
 .h-64 {
   height: 16rem;
 }
@@ -1200,10 +1203,6 @@ video {
 
   .sm\:inline-flex {
     display: inline-flex;
-  }
-
-  .sm\:h-60 {
-    height: 15rem;
   }
 
   .sm\:h-80 {
